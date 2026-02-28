@@ -1,0 +1,5 @@
+{
+  "name": "SmartBed AI",
+  "description": "Smart Hospital Bed Allocation System with AI predictions, optimization engine, and what-if simulator.",
+  "requestFramePermissions": []
+}
