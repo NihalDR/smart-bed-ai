@@ -12,7 +12,7 @@ Smart Bed AI is a system designed to forecast patient admissions, allocate avail
 
 ## Live Demo
 
-A live demo can be accessed at [https://smart-bed-ai.example.com](https://smart-bed-ai.example.com) (replace with real URL when deployed). The demo allows users to log in, view current bed allocations, forecasted demand, and run simulations.
+A live demo can be accessed at [[https://smart-bed-ai.example.com](https://smart-bed-ai.example.com](https://drive.google.com/file/d/1hL8k_r9xtPHUefhkvhhLKywKAp1bIKPY/view?usp=drivesdk)) (replace with real URL when deployed). The demo allows users to log in, view current bed allocations, forecasted demand, and run simulations.
 
 ## How It Works
 
